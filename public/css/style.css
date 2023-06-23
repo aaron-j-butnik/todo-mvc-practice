@@ -8,3 +8,7 @@ h1 {
 .not {
   text-decoration: underline;
 }
+
+span {
+  margin-right: 0.5em;
+}
