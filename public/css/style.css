@@ -11,4 +11,9 @@ h1 {
 
 span {
   margin-right: 0.5em;
+  cursor: pointer;
+}
+
+.fa-trash-can {
+  cursor: pointer;
 }
