@@ -17,3 +17,12 @@ span {
 .fa-trash-can {
   cursor: pointer;
 }
+
+.fa-arrow-left {
+  margin-right: 0.5rem;
+}
+
+.back-link {
+  cursor: pointer;
+  text-decoration: none;
+}
